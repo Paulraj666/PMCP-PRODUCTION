@@ -250,7 +250,7 @@
                       <img src="mugesh.jpg" alt="">
                       <h4>MUGESH SARAN</h4>
                       <p>CONTENT PLANNER</p>
-					  <p> RAMNATHAPURAM </p>
+					  <p>RAMNATHAPURAM </p>
                   </div>
 
                   
